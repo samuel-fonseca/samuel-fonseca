@@ -21,7 +21,7 @@ i have gotten to work on many cool projects over the years, some of my latest pr
 
 - [Twitter](https://x.com/oneofthesamuels)
 - [LinkedIn](https://www.linkedin.com/in/sam-fonseca/)
-- [Email](mailto:samuel.fonseca@protonmail.com?subject=Hello\ from\ Github)
+- [Email](mailto:samuel.fonseca@protonmail.com?subject=Hello\+from\+Github)
 
 <!--
 **samuel-fonseca/samuel-fonseca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
