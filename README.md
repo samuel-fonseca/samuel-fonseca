@@ -2,13 +2,14 @@
 
 ## 🧑🏽‍🚀 hi, i'm sam!
 
-i'm a husband, a dad, and a fullstack web developer currently focused on building scalable laravel applications.
+i'm a husband, a dad, and a fullstack software engineer currently focused on building scalable laravel applications.
 
-- 🐘 i love all things ✨php✨ (v.8 and above of course).
+- 🐘 i love all things ✨php✨
 - 🦫 **go** is cool too.
-- 🐍 i have been bitten by **python**.
-- 💾 **bash** has caused me a lot of pain.
-- ☕️ **javascript** reminds me of java - not the language!
+- 🐍 i have been bitten by **python**
+- 💾 **bash** has caused me a lot of pain
+- ☕️ **typescript** expert!
+- 🤖 **ai** orchestrator
 
 ## 🔭 projects
 
@@ -21,19 +22,4 @@ i have gotten to work on many cool projects over the years, some of my latest pr
 
 - [Twitter](https://x.com/oneofthesamuels)
 - [LinkedIn](https://www.linkedin.com/in/sam-fonseca/)
-- [Email](mailto:samuel.fonseca@protonmail.com)
-
-<!--
-**samuel-fonseca/samuel-fonseca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Email](mailto:sam@fonseca.wiki)
