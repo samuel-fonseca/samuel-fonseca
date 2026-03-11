@@ -17,6 +17,7 @@ i have gotten to work on many cool projects over the years, some of my latest pr
 
 1. [fordpass](https://github.com/samuel-fonseca/fordpass) -  an api to send a few commands to my car. built with lumen (rip 🪦)
 2. [to-do app in go](https://github.com/samuel-fonseca/task-manager-api) - my first stab at building something in go!
+3. [100-million-row-challenge](https://github.com/samuel-fonseca/100-million-row-challenge) - processed 100 million rows in `7.043s`
 
 ## 🫸🏼🫷🏼 socials
 
