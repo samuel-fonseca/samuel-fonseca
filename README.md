@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-fonseca&layout=compact&theme=transparent" alt="top langs" />
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=samuel-fonseca&layout=compact&hide_title=true&langs_count=4&theme=highcontrast)](https://github-stats-extended.vercel.app/api/top-langs?username=samuel-fonseca&layout=compact&hide_title=true&langs_count=4&theme=highcontrast)
 
 ## 🧑🏽‍🚀 hi, i'm sam!
 
